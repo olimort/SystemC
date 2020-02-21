@@ -1,2 +1,2 @@
 # SystemC
-A simple Systemc study
+A simple SystemC study
